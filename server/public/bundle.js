@@ -9584,7 +9584,7 @@ var Home = function Home() {
     _react2.default.createElement(
       'button',
       { onClick: function onClick() {
-          console.log('hi there');
+          console.log('hi there!');
         } },
       'Press me!!'
     )
